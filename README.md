@@ -1,4 +1,4 @@
- Task classification I - Constructor Theory
+# Task classification I - Constructor Theory
 
 A program that classifies tasks as possible/impossible based on [Constructor Theory](https://www.constructortheory.org/).
 
